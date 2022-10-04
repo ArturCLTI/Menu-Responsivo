@@ -5,6 +5,6 @@ Visão web
 
 Visão Mobile <br>
 ![image](https://user-images.githubusercontent.com/103531482/193878573-0e58031c-6eb7-4421-ab05-74e10479c633.png) <br>
-interação com ícone
+interação com ícone <br>
 ![image](https://user-images.githubusercontent.com/103531482/193878610-faae95dd-61cd-40ba-b27c-3eb927548b0a.png)
 ****
